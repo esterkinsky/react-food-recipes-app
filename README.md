@@ -1,1 +1,1 @@
-https://esterkinsky.github.io/react-food-recipes/
+https://esterkinsky.github.io/react-food-recipes-app/
