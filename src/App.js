@@ -10,7 +10,7 @@ import { Recipe } from './components/pages/Recipe';
 
 function App() {
 	return <>
-		<Router basename='/react-food-recipes'><Header />
+		<Router basename='/react-food-recipes-app'><Header />
 			<main className='container content'>
 				<Switch>
 					<Route exact path='/' component={Home} />
