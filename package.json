@@ -1,7 +1,7 @@
 {
   "name": "spa-recieps",
   "version": "0.1.0",
-  "homepage": "https://esterkinsky.github.io/react-food-recipes/",
+  "homepage": "https://esterkinsky.github.io/react-food-recipes-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
