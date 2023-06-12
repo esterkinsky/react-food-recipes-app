@@ -5,12 +5,13 @@ import { Home } from './components/pages/Home';
 import { Contacts } from './components/pages/Contacts';
 import { About } from './components/pages/About';
 import { NotFound } from './components/pages/NotFound';
-import {Category} from './components/pages/Category';
+import { Category } from './components/pages/Category';
 import { Recipe } from './components/pages/Recipe';
 
 function App() {
 	return <>
-		<Router basename='/react-food-recipes'><Header />
+		<Router basename='/react-food-recipes-app'>
+			<Header />
 			<main className='container content'>
 				<Switch>
 					<Route exact path='/' component={Home} />
